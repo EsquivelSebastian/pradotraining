@@ -5,6 +5,15 @@ body {
   background-color: black;
 }
 
+.mbl{
+  background-color: black;
+  color: whitesmoke;
+  
+}
+.mblmnu{
+  color: whitesmoke;
+}
+
 .navbar{
   padding: 0.5rem;
 }
